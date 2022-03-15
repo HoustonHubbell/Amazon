@@ -1,0 +1,113 @@
+body, html{font-family: Arial;
+    align-items: center;
+    position: relative;
+}
+
+#frowny{
+    width: 75px;
+    height: 75px;
+}
+
+body{
+    text-align: center;
+    
+}
+
+#signin{
+    margin-right: 38%;
+}
+
+.continuebtn:hover{
+    opacity: 22;
+}
+
+.continuebtn{
+    background-color: orange;
+    border-radius: 10%;
+}
+
+
+main{
+    border: 1px solid #ccc;
+    box-sizing: content-box;
+    margin-left: 42%;
+    margin-right: 42%;
+    margin-top: 5%;
+    padding-bottom: 2%;
+
+}
+
+#inbox{
+    font-size: small;
+    
+}
+
+.links{
+    margin-top: 5%;
+}
+#nta{
+    font-size: small;
+}
+#nta:before {
+    content: "";
+    display: block;
+    width: 48px;
+    height: 1px;
+    background: rgb(110, 110, 110);
+    margin-left: 42%;
+  }
+
+  #nta:after {
+    content: "";
+    display: block;
+    width: 48px;
+    height: 1px;
+    background: rgb(110, 110, 110);
+    margin-left: 54%;
+  }
+
+#cou{
+    margin-right: 2%;
+    font-size: x-small;
+}
+
+#pp{
+    margin-right: 2%;
+    font-size: x-small;
+}
+
+#help{
+    margin-right: 2%;
+    font-size: x-small;
+}
+
+#Name{
+    margin-top: 5%;
+    margin-bottom: 10%;
+    padding-left: 10%;
+}
+
+footer{
+    font-size: x-small;
+    margin-top: 1%
+}
+
+#needhelp{
+    margin-top: 8%;
+    margin-right: 40%;
+}
+
+#body{
+    margin-top: 5%;
+    margin-bottom: 8%;
+    padding-left: 10%;
+}
+
+#password{
+    margin-right: 10%;
+}
+
+.continuebtn{
+    padding-left: 30%;
+    padding-right: 30%;
+}
